@@ -20,3 +20,11 @@ pip install ipykernel
 python -m ipykernel install --user --name=tfodj
 </pre>
 <br/>
+
+<b>Step 4.</b> Open Jupyter Notebook from same environment
+<pre>
+jupyter notebook
+</pre>
+
+<b>Make sure to select the corrent virtual environment in Anacaonda
+<img src="https://raw.githubusercontent.com/shifttogit-deepanshu/python_venv-sc/main/forpyvenv.png">
