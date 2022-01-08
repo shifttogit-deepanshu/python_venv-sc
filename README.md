@@ -27,4 +27,5 @@ jupyter notebook
 </pre>
 
 <b>Make sure to select the corrent virtual environment in Anacaonda
+<br/>
 <img src="https://raw.githubusercontent.com/shifttogit-deepanshu/python_venv-sc/main/forpyvenv.png">
